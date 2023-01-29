@@ -10,17 +10,11 @@ Extract and then:
 - 3: Click on api setup button from https://dash.nocaptchaai.com
 
 ![image](https://user-images.githubusercontent.com/38348819/215356988-aed4c142-785a-4ca5-9814-09b7718ed8ce.png)
-
-
-
 </p>
 
-<p>
 
 ![image](https://user-images.githubusercontent.com/38348819/215357343-dcae25cf-65c9-4215-863e-5f2a9fbe6bd5.png)
-![image](https://user-images.githubusercontent.com/38348819/215357407-bf6a7d65-e07e-4426-acbe-5c417dc4eeeb.png)
 
-</p>
 
 https://user-images.githubusercontent.com/38348819/215357385-ae8569be-159b-40c8-8770-281bd781272d.mp4
 
