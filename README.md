@@ -1,10 +1,15 @@
 # noCaptcha_extension
 
-### Setup from here https://dash.nocaptchaai.com
+Download [ZIP](https://github.com/noCaptchaAi/noCaptcha_extension/archive/refs/heads/main.zip)
 
-### Auto Setup >  Click on Plan buttons
+Extract and then:
 
-![image](https://user-images.githubusercontent.com/38348819/215356712-3600e5aa-f298-4c81-97b1-aae13999b961.png)
+- 1: Enable Chrome Developer mode > chrome://extensions
+- 2: Load Unpacked
+- 3: Click on api setup button from https://dash.nocaptchaai.com
+
+![image](https://user-images.githubusercontent.com/38348819/215356988-aed4c142-785a-4ca5-9814-09b7718ed8ce.png)
+
 
 
 ![image (1)](https://user-images.githubusercontent.com/38348819/215356636-e04af27b-a454-405b-9d01-cbd08e97ab73.png)
