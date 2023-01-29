@@ -1,4 +1,4 @@
-# noCaptcha_extension
+# noCaptcha Ai Extension
 
 Download [ZIP](https://github.com/noCaptchaAi/noCaptcha_extension/archive/refs/heads/main.zip)
 
