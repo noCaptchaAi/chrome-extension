@@ -9,11 +9,12 @@ Extract and then:
 - 2: Load Unpacked
 - 3: Click on api setup button from https://dash.nocaptchaai.com
 
-![image](https://user-images.githubusercontent.com/38348819/215356988-aed4c142-785a-4ca5-9814-09b7718ed8ce.png)
+![image](https://user-images.githubusercontent.com/38348819/215573058-987fe954-7a43-4410-9b42-6cf32a300e7c.png)
+![image](https://user-images.githubusercontent.com/38348819/215357343-dcae25cf-65c9-4215-863e-5f2a9fbe6bd5.png)
+
 </p>
 
 
-![image](https://user-images.githubusercontent.com/38348819/215357343-dcae25cf-65c9-4215-863e-5f2a9fbe6bd5.png)
 
 
 https://user-images.githubusercontent.com/38348819/215357385-ae8569be-159b-40c8-8770-281bd781272d.mp4
