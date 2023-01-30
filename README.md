@@ -1,4 +1,4 @@
-# noCaptcha Ai Extension
+# Chrome Extension
 
 Download [ZIP](https://github.com/noCaptchaAi/noCaptcha_extension/archive/refs/heads/main.zip)
 
