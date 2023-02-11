@@ -1,6 +1,13 @@
 ### noCaptcha Chrome Extension
 
-Download [ZIP](https://github.com/noCaptchaAi/noCaptcha_extension/archive/refs/heads/main.zip) and then:
+## CRX Download
+
+[noCaptchaAi.crx](https://github.com/noCaptchaAi/noCaptcha_extension/releases/download/v1.5.0/noCaptchaAi.crx)
+
+
+## ZIP Download 
+
+[noCaptchaAi_Etension.zip](https://github.com/noCaptchaAi/noCaptcha_extension/archive/refs/heads/main.zip)
 
 - 1: Enable Chrome Developer mode > chrome://extensions > Load Unpacked
 - 2: Click on api setup button from https://dash.nocaptchaai.com
