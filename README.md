@@ -1,9 +1,8 @@
-### noCaptcha Chrome Extension
+## noCaptcha Chrome Extension
 
 ## CRX Download
 
 [noCaptchaAi.crx](https://github.com/noCaptchaAi/noCaptcha_extension/releases/download/v1.5.0/noCaptchaAi.crx)
-
 
 ## ZIP Download 
 
