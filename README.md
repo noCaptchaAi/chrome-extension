@@ -2,11 +2,11 @@
 
 ## CRX Download
 
-[noCaptchaAi.crx](https://github.com/noCaptchaAi/noCaptcha_extension/releases/download/v1.5.0/noCaptchaAi.crx)
+[noCaptchaAi.crx.zip](https://github.com/noCaptchaAi/noCaptcha_extension/releases/download/v1.6.0/1.6.0.crx.zip)
 
 ## ZIP Download 
 
-[noCaptchaAi_Etension.zip](https://github.com/noCaptchaAi/noCaptcha_extension/archive/refs/heads/main.zip)
+[noCaptchaAi_Etension.zip](https://github.com/noCaptchaAi/noCaptcha_extension/releases/download/v1.6.0/noCaptcha.Chrome.v1.6.0.zip)
 
 - 1: Enable Chrome Developer mode > chrome://extensions > Load Unpacked
 - 2: Click on api setup button from https://dash.nocaptchaai.com
