@@ -15,7 +15,6 @@
 <img src="https://user-images.githubusercontent.com/38348819/220092765-b17f3982-81f0-4e01-9d1a-70875cacd16a.png" />
 
 
-<br />
 
 ## CRX Download
 
@@ -43,6 +42,6 @@ autosetup userscript link ( https://dash.nocaptchaai.com > login )
 <a target="_blank" href="https://github.com/noCaptchaAi/nocaptchaai-puppeteer">🔥 NPM puppeteer Package</a>
 </div>
 
-
-https://user-images.githubusercontent.com/38348819/215357385-ae8569be-159b-40c8-8770-281bd781272d.mp4
-
+<div align="center">
+<a href="https://www.youtube.com/embed/MM35vd6AloM"><img alt="github stars" src="https://user-images.githubusercontent.com/38348819/224545292-a55fa3bd-dfd4-42f1-b4b7-eb1a80d3eec6.png"></a>
+</div>
