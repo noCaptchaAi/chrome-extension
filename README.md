@@ -16,31 +16,24 @@
 
 
 
-## CRX Download
+# CRX Download
 
-[noCaptchaAi.crx.zip](https://github.com/noCaptchaAi/noCaptcha_extension/releases/download/v1.6.0/1.6.0.crx.zip)
+### [noCaptchaAi.crx.zip](https://github.com/noCaptchaAi/noCaptcha_extension/releases/download/v1.6.0/1.6.0.crx.zip)
 
-## ZIP Download 
+# ZIP Download 
 
-[noCaptchaAi_Etension.zip](https://github.com/noCaptchaAi/noCaptcha_extension/releases/download/v1.6.0/noCaptcha.Chrome.v1.6.0.zip)
-
-
+### [noCaptchaAi_Etension.zip](https://github.com/noCaptchaAi/noCaptcha_extension/releases/download/v1.6.0/noCaptcha.Chrome.v1.6.0.zip)
 
 
-1: Enable Chrome Developer mode > chrome://extensions > Load Unpacked
 
-2: Click on api setup button from https://dash.nocaptchaai.com
 
-<p align="center">
-🔥 6000 solves free monthly <br />
-CHEAPEST Plans for bots Anywhere https://nocaptchaai.com/plans <br />
-Software list https://dash.nocaptchaai.com/software <br />
-autosetup userscript link ( https://dash.nocaptchaai.com > login )
-</p>
 
-<a target="_blank" href="https://github.com/noCaptchaAi/noCaptcha_extension">🔥 Chrome Extension</a> <br />
-<a target="_blank" href="https://github.com/noCaptchaAi/nocaptchaai-puppeteer">🔥 NPM puppeteer Package</a>
-</div>
+
+<h2 align="center">
+🔥 6000 solves free monthly 
+~ https://dash.nocaptchaai.com
+</h2>
+
 
 <div align="center">
 <a href="https://www.youtube.com/embed/MM35vd6AloM"><img alt="github stars" src="https://user-images.githubusercontent.com/38348819/224545292-a55fa3bd-dfd4-42f1-b4b7-eb1a80d3eec6.png"></a>
