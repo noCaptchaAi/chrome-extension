@@ -12,8 +12,8 @@
 <a href="https://greasyfork.org/en/scripts/454941-nocaptchaai-hcaptcha-solver"><img alt="github stars" src="https://user-images.githubusercontent.com/4178343/202253849-adb3f27a-24cf-444e-916c-2e58cba00362.png">
 </p>
 
-<img src="https://user-images.githubusercontent.com/38348819/220092765-b17f3982-81f0-4e01-9d1a-70875cacd16a.png" />
 
+![image](https://user-images.githubusercontent.com/38348819/228296558-82568f82-10d4-441c-921f-7fe77ddc6336.png)
 
 
 # CRX Download
