@@ -1,0 +1,91 @@
+{
+  "manifest_version": 3,
+  "name": "noCaptcha",
+  "version": "1.7.0",
+  "background": {
+    "service_worker": "service-worker-loader.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "noCaptcha: Ai Captcha Solver",
+    "default_icon": {
+      "16": "src/icons/icon_16.png",
+      "32": "src/icons/icon_32.png",
+      "48": "src/icons/icon_48.png",
+      "128": "src/icons/icon.png"
+    }
+  },
+  "author": "noCaptchaAi.com",
+  "description": "reCAPTCHA, hCaptcha Solving service AI.",
+  "permissions": [
+    "tabs",
+    "storage",
+    "webRequest",
+    "webNavigation",
+    "nativeMessaging",
+    "scripting",
+    "contextMenus",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "js": [
+        "assets/hCaptcha.jsx-loader-952f8d20.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ],
+      "all_frames": true,
+      "match_about_blank": false
+    },
+    {
+      "js": [
+        "assets/recap_speech_ai.js-loader-6a7d0f35.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ],
+      "all_frames": true,
+      "match_about_blank": false
+    },
+    {
+      "js": [
+        "assets/config.js-loader-a5daa5e5.js"
+      ],
+      "matches": [
+        "https://config.nocaptchaai.com/?apikey=*"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "src/icons/icon_16.png",
+    "32": "src/icons/icon_32.png",
+    "48": "src/icons/icon_48.png",
+    "128": "src/icons/icon.png"
+  },
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "resources": [
+        "assets/package-ccebe366.js",
+        "assets/utils-db674be6.js",
+        "assets/hCaptcha.jsx-4bf10c7b.js",
+        "assets/recap_speech_ai.js-5560757f.js"
+      ],
+      "use_dynamic_url": true
+    },
+    {
+      "matches": [
+        "https://config.nocaptchaai.com/*"
+      ],
+      "resources": [
+        "assets/utils-db674be6.js",
+        "assets/config.js-0c614c07.js"
+      ],
+      "use_dynamic_url": true
+    }
+  ]
+}
