@@ -18,13 +18,11 @@
 
 # CRX Download
 
-### [noCaptchaAi.crx.zip](https://github.com/noCaptchaAi/noCaptcha_extension/releases/download/v1.6.0/1.6.0.crx.zip)
+### [Chrome Latest.crx.zip](https://github.com/noCaptchaAi/chrome-extension/releases/latest)
 
 # ZIP Download 
 
-### [noCaptchaAi_Etension.zip](https://github.com/noCaptchaAi/noCaptcha_extension/releases/download/v1.6.0/noCaptcha.Chrome.v1.6.0.zip)
-
-
+### [Chrome Latest.zip](https://github.com/noCaptchaAi/chrome-extension/releases/latest)
 
 
 
