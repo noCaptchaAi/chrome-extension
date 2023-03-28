@@ -16,20 +16,16 @@
 ![image](https://user-images.githubusercontent.com/38348819/228296558-82568f82-10d4-441c-921f-7fe77ddc6336.png)
 
 
-# CRX Download
+# Download
 
-### [Chrome Latest.crx.zip](https://github.com/noCaptchaAi/chrome-extension/releases/latest)
-
-# ZIP Download 
-
-### [Chrome Latest.zip](https://github.com/noCaptchaAi/chrome-extension/releases/latest)
+### [Chrome Latest CRX](https://github.com/noCaptchaAi/chrome-extension/releases/latest)
+### [Chrome Latest ZIP](https://github.com/noCaptchaAi/chrome-extension/releases/latest)
 
 
 
 
 <h2 align="center">
-🔥 6000 solves free monthly 
-~ https://dash.nocaptchaai.com
+🔥 Free Trial ~ https://dash.nocaptchaai.com
 </h2>
 
 
