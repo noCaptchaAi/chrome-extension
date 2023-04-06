@@ -4,7 +4,7 @@
   (async () => {
     await import(
       /* @vite-ignore */
-      chrome.runtime.getURL("assets/config.js-0c614c07.js")
+      chrome.runtime.getURL("assets/recap_speech_ai.js-e3de6993.js")
     );
   })().catch(console.error);
 
