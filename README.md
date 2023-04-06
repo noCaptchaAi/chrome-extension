@@ -28,7 +28,4 @@
 🔥 Free Trial ~ https://dash.nocaptchaai.com
 </h2>
 
-
-<div align="center">
-<a href="https://www.youtube.com/embed/MM35vd6AloM"><img alt="github stars" src="https://user-images.githubusercontent.com/38348819/224545292-a55fa3bd-dfd4-42f1-b4b7-eb1a80d3eec6.png"></a>
-</div>
+https://www.youtube.com/embed/MM35vd6AloM
