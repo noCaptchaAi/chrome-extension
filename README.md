@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/38348819/224522816-8bfba887-ffdd-4180-bbe3-1e3b6f5c5b41.png" alt="Logo" width="50" />
 <br />
-<h1>noCaptcha Ai: CAPTCHA SOLVER Chrome Extension</h1>
+<h1>noCaptcha Ai</h1>
+<h3>CAPTCHA SOLVER Chrome Extension</h3>
 <p>Ai based Captcha Solution Powered by noCaptchaAi.com</p>
 <p>
 <a href="https://t.me/noCaptchaAi" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
