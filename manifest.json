@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "noCaptcha",
-  "version": "1.7.4",
+  "name": "noCaptcha Ai",
+  "version": "1.7.5",
   "background": {
     "service_worker": "service-worker-loader.js",
     "type": "module"
@@ -10,14 +10,14 @@
     "default_popup": "index.html",
     "default_title": "noCaptcha: Ai Captcha Solver",
     "default_icon": {
-      "16": "src/icons/icon_16.png",
-      "32": "src/icons/icon_32.png",
-      "48": "src/icons/icon_48.png",
-      "128": "src/icons/icon.png"
+      "16": "src/icons/16n.png",
+      "32": "src/icons/32n.png",
+      "48": "src/icons/48n.png",
+      "128": "src/icons/128n.png"
     }
   },
   "author": "noCaptchaAi.com",
-  "description": "reCAPTCHA, hCaptcha Solving service AI.",
+  "description": "Captcha Solving Ai. ReCaptcha v2 Image and Audio, hCaptcha normal/Enterprise, hCaptcha Token, OCR Captcha Automated Solver",
   "permissions": [
     "tabs",
     "storage",
@@ -30,7 +30,7 @@
   "content_scripts": [
     {
       "js": [
-        "assets/hCaptcha.jsx-loader-886fb0aa.js"
+        "assets/hCaptcha.jsx-loader-30890b6c.js"
       ],
       "matches": [
         "<all_urls>"
@@ -40,7 +40,7 @@
     },
     {
       "js": [
-        "assets/recap_speech_ai.js-loader-cb46836a.js"
+        "assets/recap_speech_ai.js-loader-ec41fab0.js"
       ],
       "matches": [
         "<all_urls>"
@@ -50,7 +50,7 @@
     },
     {
       "js": [
-        "assets/reCaptcha.js-loader-14dd273e.js"
+        "assets/reCaptcha3.jsx-loader-965b8e7e.js"
       ],
       "matches": [
         "<all_urls>"
@@ -60,7 +60,7 @@
     },
     {
       "js": [
-        "assets/config.js-loader-40b3a703.js"
+        "assets/config.js-loader-609f5287.js"
       ],
       "matches": [
         "https://config.nocaptchaai.com/?apikey=*"
@@ -68,10 +68,10 @@
     }
   ],
   "icons": {
-    "16": "src/icons/icon_16.png",
-    "32": "src/icons/icon_32.png",
-    "48": "src/icons/icon_48.png",
-    "128": "src/icons/icon.png"
+    "16": "src/icons/16n.png",
+    "32": "src/icons/32n.png",
+    "48": "src/icons/48n.png",
+    "128": "src/icons/128n.png"
   },
   "web_accessible_resources": [
     {
@@ -79,12 +79,12 @@
         "<all_urls>"
       ],
       "resources": [
-        "assets/solid-fb57ed3a.js",
-        "assets/package-b4497a7a.js",
-        "assets/utils-e474e5df.js",
-        "assets/hCaptcha.jsx-8494735e.js",
-        "assets/recap_speech_ai.js-e3de6993.js",
-        "assets/reCaptcha.js-e43f18a5.js"
+        "assets/solid-9116ffce.js",
+        "assets/package-292015a2.js",
+        "assets/utils-177944e6.js",
+        "assets/hCaptcha.jsx-07c39e6f.js",
+        "assets/recap_speech_ai.js-fb80026a.js",
+        "assets/reCaptcha3.jsx-fbe3f8f5.js"
       ],
       "use_dynamic_url": true
     },
@@ -93,9 +93,9 @@
         "https://config.nocaptchaai.com/*"
       ],
       "resources": [
-        "assets/utils-e474e5df.js",
-        "assets/package-b4497a7a.js",
-        "assets/config.js-8c3e9da1.js"
+        "assets/utils-177944e6.js",
+        "assets/package-292015a2.js",
+        "assets/config.js-8ef6abba.js"
       ],
       "use_dynamic_url": true
     }
