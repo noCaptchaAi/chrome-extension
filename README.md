@@ -12,9 +12,7 @@
 <a href="https://greasyfork.org/en/scripts/454941-nocaptchaai-hcaptcha-solver"><img alt="github stars" src="https://user-images.githubusercontent.com/4178343/202253849-adb3f27a-24cf-444e-916c-2e58cba00362.png">
 </p>
 
-
-![image](https://user-images.githubusercontent.com/38348819/228296558-82568f82-10d4-441c-921f-7fe77ddc6336.png)
-
+![extension screenshot](https://user-images.githubusercontent.com/38348819/235938426-e59c7869-e375-4201-8d0a-2c10d62e4dee.png)
 
 # Download
 
