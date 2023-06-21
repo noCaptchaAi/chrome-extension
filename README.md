@@ -1,5 +1,5 @@
 <div align="center">
-<h3>:zap: Firefox Addon  - hCaptcha + reCaptcha + OCR --> <a href="https://github.com/noCaptchaAi/firefox-addon">Get Firefox Addon</a>
+<h3>NEW :zap: Firefox Addon  - hCaptcha + reCaptcha + OCR --> <a href="https://github.com/noCaptchaAi/firefox-addon">Get Firefox Addon</a>
 </h3>
 </p>
 <h1><img src="https://user-images.githubusercontent.com/38348819/224522816-8bfba887-ffdd-4180-bbe3-1e3b6f5c5b41.png" alt="Logo" width="25" />
