@@ -11,21 +11,17 @@
 <a href="https://github.com/shimuldn/hCaptchaSolverApi/"><img alt="github stars" src="https://img.shields.io/github/stars/shimuldn/hCaptchaSolverApi?style=for-the-badge"></a>
 <a href="https://nocaptchaai.com/software"><img alt="github stars" src="https://img.shields.io/npm/v/nocaptchaai-puppeteer?label=npm-puppeteer-solver&style=for-the-badge"></a>
 <a href="https://nocaptchaai.com/software"><img alt="github stars" src="https://img.shields.io/npm/v/nocaptchasolver?label=npm-selenium-solver&style=for-the-badge"></a>
-<a href="https://greasyfork.org/en/scripts/454941-nocaptchaai-hcaptcha-solver"><img alt="github stars" src="https://user-images.githubusercontent.com/4178343/202253849-adb3f27a-24cf-444e-916c-2e58cba00362.png">
 </p>
 
-![extension screenshot](https://user-images.githubusercontent.com/38348819/235938426-e59c7869-e375-4201-8d0a-2c10d62e4dee.png)
+![extension screenshot](https://github.com/noCaptchaAi/chrome-extension/assets/38348819/499d959c-9c3b-4284-a1aa-aaa436373e25)
 
 # Download
 
 ### [Chrome Latest CRX](https://github.com/noCaptchaAi/chrome-extension/releases/latest)
 ### [Chrome Latest ZIP](https://github.com/noCaptchaAi/chrome-extension/releases/latest)
 
-
-
-
 <h2 align="center">
-🔥 Free Trial ~ https://dash.nocaptchaai.com
+🔥 Try Free Now ~ https://dash.nocaptchaai.com
 </h2>
 
 https://www.youtube.com/embed/MM35vd6AloM
