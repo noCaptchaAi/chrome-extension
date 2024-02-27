@@ -1,7 +1,3 @@
-
-
-## ⚠️ This Repo is stale --> Use <a href="https://github.com/noCaptchaAi/chrome" target="_blank">NEW :zap: CHROME Extension + OCR</a>
-## :zap: Firefox Addon --> <a href="https://github.com/noCaptchaAi/firefox-addon">Get NEW Addon + OCR</a>
 <div align="center">
 
 </p>
