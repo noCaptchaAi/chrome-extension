@@ -3,8 +3,9 @@
 </p>
 <h1><img src="https://user-images.githubusercontent.com/38348819/224522816-8bfba887-ffdd-4180-bbe3-1e3b6f5c5b41.png" alt="Logo" width="25" />
  noCaptcha Ai</h1>
-<h3>CAPTCHA SOLVER Chrome Extension</h3>
+<h2>CAPTCHA SOLVER Chrome Extension</h2>
 <p>Powered by noCaptchaAi.com</p>
+<p>Works with all chrome/Chromium based browsers. Opera, Vivaldi, Brave, Edge, Maxthon, UC Browser</p>
 <p>
 <a href="https://t.me/noCaptchaAi" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://discord.gg/E7FfzhZqzA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
