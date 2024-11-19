@@ -14,7 +14,7 @@
 <a href="https://nocaptchaai.com/software"><img alt="github stars" src="https://img.shields.io/npm/v/nocaptchasolver?label=npm-selenium-solver&style=for-the-badge"></a>
 </p>
 
-![extension screenshot](https://github.com/noCaptchaAi/chrome-extension/assets/38348819/499d959c-9c3b-4284-a1aa-aaa436373e25)
+![extension screenshot](https://github.com/user-attachments/assets/944eee91-e57c-44c2-a384-b4bf8b4567de)
 
 # Download
 
