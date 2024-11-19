@@ -9,7 +9,7 @@
 <p>
 <a href="https://t.me/noCaptchaAi" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://discord.gg/E7FfzhZqzA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://github.com/shimuldn/hCaptchaSolverApi/"><img alt="github stars" src="https://img.shields.io/github/stars/shimuldn/hCaptchaSolverApi?style=for-the-badge"></a>
+<a href="https://github.com/shimuldn/qCaptchaSolverApi/"><img alt="github stars" src="https://img.shields.io/github/stars/shimuldn/qCaptchaSolverApi?style=for-the-badge"></a>
 <a href="https://nocaptchaai.com/software"><img alt="github stars" src="https://img.shields.io/npm/v/nocaptchaai-puppeteer?label=npm-puppeteer-solver&style=for-the-badge"></a>
 <a href="https://nocaptchaai.com/software"><img alt="github stars" src="https://img.shields.io/npm/v/nocaptchasolver?label=npm-selenium-solver&style=for-the-badge"></a>
 </p>
